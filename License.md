@@ -2,6 +2,8 @@ Todo el repositorio y los archivos del mismo estan sujetos a la misma licencia: 
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+English:
+
 ## Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
 You are free to:

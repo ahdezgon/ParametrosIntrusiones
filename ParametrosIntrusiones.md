@@ -116,9 +116,13 @@ Los pasos a seguir para crear la estructura serían:
 4.- Actualmente el método getMode asociado a AudioManager nos ofrece 5 resultados: 
 
 MODE_NORMAL: No hay llamadas ni acciones establecidas.
+
 MODE_RINGTONE: Hay una petición al micrófono.
+
 MODE_CALL_SCREENING: Hay una llamada conectada pero el audio no está en uso. 
+
 MODE_IN_CALL: Hay una llamada telefónica.
+
 MODE_IN_COMMUNICATION: Existe alguna aplicación que está realizando comunicaciones de audio/video o VoIP.
 
 Por lo tanto si el método nos devuelve un “MODE_IN_CALL” or “MODE_IN_COMMUNICATION”, tendremos el micrófono activo.

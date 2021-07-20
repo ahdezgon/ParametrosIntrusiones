@@ -1,3 +1,4 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 # Parametros Intrusiones
 La información que recogen estos 9 parámetros (se pueden añadir más a posteriori) nos permite mediante Inteligencia Artificial(IA) conocer si el dispositivo está siendo atacado o no. Esto se consigue realizando un gráfico en coordenadas polares (aunque podría ser cualquier otro tipo de gráfico) que la IA sea capaz de reconocer. Una vez el modelo esta entrenado la IA es capaz de reconocer si un gráfico de un instante (o varios instantes) corresponde al gráfico de una intrusión o no.
 
@@ -141,6 +142,5 @@ Además si queremos poder monitorizar en tiempo real lo que ocurre tanto con la 
 
 ![ConsumoRAM/CPU](Figure_1.png)
 
-
-
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 

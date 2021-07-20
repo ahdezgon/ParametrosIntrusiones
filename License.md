@@ -18,6 +18,21 @@ ShareAlike — If you remix, transform, or build upon the material, you must dis
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 ---------------------------------------
+Español: 
+## Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+
+Usted es libre de:
+Compartir — copiar y redistribuir el material en cualquier medio o formato
+Adaptar — remezclar, transformar y construir a partir del material
+
+Bajo los siguientes términos:
+Atribución — Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante.
+
+NoComercial — Usted no puede hacer uso del material con propósitos comerciales.
+
+CompartirIgual — Si remezcla, transforma o crea a partir del material, debe distribuir su contribución bajo la lamisma licencia del original.
+
+---------------------------------------
 Creative Commons Atribución/Reconocimiento-NoComercial-CompartirIgual 4.0 Licencia Pública Internacional — CC BY-NC-SA 4.0
 Al ejercer los Derechos Licenciados (definidos a continuación), Usted acepta y acuerda estar obligado por los términos y condiciones de esta Licencia Internacional Pública de Atribución/Reconocimiento-NoComercial-CompartirIgual 4.0 de Creative Commons ("Licencia Pública"). En la medida en que esta Licencia Pública pueda ser interpretada como un contrato, a Usted se le otorgan los Derechos Licenciados en consideración a su aceptación de estos términos y condiciones, y el Licenciante le concede a Usted tales derechos en consideración a los beneficios que el Licenciante recibe por poner a disposición el Material Licenciado bajo estos términos y condiciones.
 

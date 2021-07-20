@@ -58,8 +58,11 @@ Para dispositivos Windows, se puede utilizar Kismet o bien integrarlo en Python 
 Para Android, Se puede utilizar BluetoothProfile interfaz (colección de métodos y constantes) definida por Google para manejar el Bluetooth en los dispositivos Android. Además necesitaremos utilizar otra interfaz: ServiceListener que nos permitirá listar de manera más rápida los estados (constantes) que buscamos: 
 
 STATE_CONNECTING: Dispositivo en estado de conexión. 
+
 STATE_DISCONNECTING: Dispositivo en estado de desconexión. 
+
 STATE_CONNECTED: Dispositivo conectado. 
+
 STATE_DISCONNECTED: Dispositivo desconectado. 
 
 Estos estados pueden parecer iguales dos a dos la diferencia es que en los dos primeros obtendremos el estado de nuestra conexión bluetooth, es decir, si tenemos activado o no el bluetooth y en los dos últimos obtendremos información acerca de si estamos conectados como tal o no. Un dispositivo puede tener el bluetooth activo pero no estar conectado a ningún otro dispositivo.
